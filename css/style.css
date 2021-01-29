@@ -1,0 +1,20 @@
+span{
+    position: absolute;
+    top: 20px;
+    right: 20px;    
+}
+.input-group-append.btn.btn-outline-secondary.border-left-0 {
+    height: 38px;
+    margin-top: -20px;
+    margin-right: -20px;
+}
+
+.btn .btn-outline-secondary {
+    margin-top: -19px;
+    margin-bottom: -17px;
+
+
+}
+.gj-icon{
+    margin-top: -3px;
+}
